@@ -19,7 +19,7 @@ const Home = () => {
           </div>
           {/* Image à droite */}
           <div className="lg:w-1/2 lg:pl-8">
-            <img src="public\images\klervi-removebg-preview.png" alt="Klervi" className="mx-auto lg:ml-auto lg:mr-0" />
+            <img src="images\klervi-removebg-preview.png" alt="Klervi" className="mx-auto lg:ml-auto lg:mr-0" />
           </div>
         </div>
       </section>
