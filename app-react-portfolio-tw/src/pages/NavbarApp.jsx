@@ -2,7 +2,7 @@ import { Link, useLocation } from "react-router-dom";
 import { Button, Navbar, DarkThemeToggle } from "flowbite-react";
 
 function NavbarApp() {
-  const location = useLocation();
+  const location = useLocation(); 
 
   return (
     <Navbar fluid className="dark:bg-slate-800 px-6" style={{ backgroundColor: '#0f172a' }}>

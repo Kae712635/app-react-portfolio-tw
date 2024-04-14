@@ -62,7 +62,7 @@ const Home = () => {
         <Card
           className="mx-auto max-w-sm"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="public/images/project-fashion.jpg"
+          imgSrc="images/project-fashion.jpg"
           style={{ backgroundColor: '#161A30' }}
         >
           <h5 className="text-2xl font-bold tracking-tight dark:text-white" style={{ backgroundColor: '#161A30' }}>
