@@ -65,15 +65,15 @@ const Home = () => {
           imgSrc="images/project-fashion.jpg"
           style={{ backgroundColor: '#161A30' }}
         >
-          <h5 className="text-2xl font-bold tracking-tight dark:text-white" style={{ backgroundColor: '#161A30' }}>
+          <h5 className="text-2xl font-bold tracking-tight dark:text-white" style={{color: '#FFFFFF', backgroundColor: '#161A30' }}>
           Snazzy Fashion
           </h5>
-          <p className="font-normal dark:text-gray-400" style={{ backgroundColor: '#161A30' }}>
+          <p className="font-normal dark:text-gray-400" style={{ color: '#FFFFFF', backgroundColor: '#161A30' }}>
           A web page for a fashion retailer with a background video that plays in a continuous loop.
           </p>
           
           <a href="portfolio/fashion/index.html">
-            <Button className="text-white" style={{ background: 'white' }}>View project</Button>
+          <Button className="text-whitecd " style={{ background: 'white' }}>View project</Button>
           </a>
 
         </Card>
@@ -84,14 +84,14 @@ const Home = () => {
           imgSrc="images/project-crypto-wallet.jpg"
           style={{ backgroundColor: '#161A30' }}
         >
-          <h5 className="text-2xl font-bold tracking-tight  dark:text-white"style={{ backgroundColor: '#161A30' }}>
+          <h5 className="text-2xl font-bold tracking-tight  dark:text-white"style={{color: '#FFFFFF', backgroundColor: '#161A30' }}>
           Crypto Wallet
           </h5>
-          <p className="font-normal dark:text-gray-400" style={{ backgroundColor: '#161A30' }}>
+          <p className="font-normal dark:text-gray-400" style={{color: '#FFFFFF', backgroundColor: '#161A30' }}>
           A dark-themed web page for a fictitious crypto wallet.
           </p>
           <a href="portfolio/crypto-wallet/index.html">
-            <Button className="text-white" style={{ background: 'white' }}>View project</Button>
+          <Button className="text-whitecd " style={{ background: 'white' }}>View project</Button>
           </a>
         </Card>
         <Card
@@ -100,14 +100,14 @@ const Home = () => {
           imgSrc="images/project-hero.png"
           style={{ backgroundColor: '#161A30' }}
         >
-          <h5 className="text-2xl font-bold tracking-tight  dark:text-white"style={{ backgroundColor: '#161A30' }}>
+          <h5 className="text-2xl font-bold tracking-tight  dark:text-white"style={{color: '#FFFFFF', backgroundColor: '#161A30' }}>
           Hero Block Gallery
           </h5>
-          <p className="font-normal  dark:text-gray-400"style={{ backgroundColor: '#161A30' }}>
+          <p className="font-normal  dark:text-gray-400"style={{color: '#FFFFFF', backgroundColor: '#161A30' }}>
           A gallery of hero block elements with split-screen layouts and duotone images.
           </p>
           <a href="portfolio/project-hero/index-1.html">
-            <Button className="text-white" style={{ background: 'white' }}>View project</Button>
+          <Button className="text-whitecd " style={{ background: 'white' }}>View project</Button>
           </a>
         </Card>
       </section>
