@@ -33,7 +33,7 @@ const Portfolio = () => {
         <Card
           className="mx-auto max-w-sm"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="public/images/project-fashion.jpg"
+          imgSrc="images/project-fashion.jpg"
           style={{ backgroundColor: '#161A30' }}
         >
           <h5 className="text-2xl font-bold tracking-tight dark:text-white" style={{ backgroundColor: '#161A30' }}>
@@ -43,8 +43,8 @@ const Portfolio = () => {
           A web page for a fashion retailer with a background video that plays in a continuous loop.
           </p>
           
-          <a href="public/portfolio/fashion/index.html">
-            <Button className="text-black" style={{ background: 'white' }}>View project</Button>
+          <a href="portfolio/fashion/index.html">
+            <Button className="text-white" style={{ background: 'white' }}>View project</Button>
           </a>
 
         </Card>
@@ -52,7 +52,7 @@ const Portfolio = () => {
         <Card
           className="mx-auto max-w-sm"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="public/images/project-crypto-wallet.jpg"
+          imgSrc="images/project-crypto-wallet.jpg"
           style={{ backgroundColor: '#161A30' }}
         >
           <h5 className="text-2xl font-bold tracking-tight  dark:text-white"style={{ backgroundColor: '#161A30' }}>
@@ -61,14 +61,14 @@ const Portfolio = () => {
           <p className="font-normal dark:text-gray-400" style={{ backgroundColor: '#161A30' }}>
           A dark-themed web page for a fictitious crypto wallet.
           </p>
-          <a href="public/portfolio/crypto-wallet/index.html">
-            <Button className="text-black" style={{ background: 'white' }}>View project</Button>
+          <a href="portfolio/crypto-wallet/index.html">
+            <Button className="text-white" style={{ background: 'white' }}>View project</Button>
           </a>
         </Card>
         <Card
           className="mx-auto max-w-sm"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="public/images/project-hero.png"
+          imgSrc="images/project-hero.png"
           style={{ backgroundColor: '#161A30' }}
         >
           <h5 className="text-2xl font-bold tracking-tight  dark:text-white"style={{ backgroundColor: '#161A30' }}>
@@ -77,13 +77,13 @@ const Portfolio = () => {
           <p className="font-normal  dark:text-gray-400"style={{ backgroundColor: '#161A30' }}>
           A gallery of hero block elements with split-screen layouts and duotone images.
           </p>
-          <a href="public/portfolio/project-hero/index.html">
-            <Button className="text-black" style={{ background: 'white' }}>View project</Button>
+          <a href="portfolio/project-hero/index-1.html">
+            <Button className="text-white" style={{ background: 'white' }}>View project</Button>
           </a>
         </Card><Card
           className="mx-auto max-w-sm"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="public/images/project-multi-col.png"
+          imgSrc="images/project-multi-col.png"
           style={{ backgroundColor: '#161A30' }}
         >
           <h5 className="text-2xl font-bold tracking-tight dark:text-white" style={{ backgroundColor: '#161A30' }}>
@@ -93,8 +93,8 @@ const Portfolio = () => {
           A gallery of multi-column, responsive layouts.
           </p>
           
-          <a href="public/portfolio/project-multi-column/index.html">
-            <Button className="text-black" style={{ background: 'white' }}>View project</Button>
+          <a href="portfolio/project-multi-column/index.html">
+            <Button className="text-white" style={{ background: 'white' }}>View project</Button>
           </a>
 
         </Card>
@@ -102,7 +102,7 @@ const Portfolio = () => {
         <Card
           className="mx-auto max-w-sm"
           imgAlt="Meaningful alt text for an image that is not purely decorative"
-          imgSrc="public/images/project-smoothie.jpg"
+          imgSrc="images/project-smoothie.jpg"
           style={{ backgroundColor: '#161A30' }}
         >
           <h5 className="text-2xl font-bold tracking-tight  dark:text-white"style={{ backgroundColor: '#161A30' }}>
@@ -111,8 +111,8 @@ const Portfolio = () => {
           <p className="font-normal dark:text-gray-400" style={{ backgroundColor: '#161A30' }}>
           A multi-column, flexbox-based page layout and hero image with a tinted overlay.
           </p>
-          <a href="public/portfolio/smoothies/index.html">
-            <Button className="text-black" style={{ background: 'white' }}>View project</Button>
+          <a href="portfolio/smoothies/index.html">
+            <Button className="text-whitecd " style={{ background: 'white' }}>View project</Button>
           </a>
         </Card>
       </section>
